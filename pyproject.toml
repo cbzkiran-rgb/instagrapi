@@ -66,7 +66,7 @@ Repository = "https://github.com/subzeroid/instagrapi"
 test = [
     "flake8==7.3.0",
     "Pillow==12.2.0",
-    "isort==7.0.0",
+    "isort==8.0.1",
     "bandit==1.8.6",
     "mike==2.2.0",
     # mike implicitly imports pkg_resources from setuptools — see
